@@ -1,4 +1,4 @@
-public class AverageMilesPerGallon {
+public class Program5 {
     public static void main(String[] args) {
         // Data of the vehicles
         int royaleMiles = 286;
